@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin",
+      "email": "admin@demo.com",
+      "password": "123456",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "name": "User",
+      "email": "user@demo.com",
+      "password": "123456",
+      "role": "user"
+    }
+  ],
+  "offers": [
+    {
+      "id": "1",
+      "title": "Frontend Developer",
+      "company": "NovaTech",
+      "location": "Bogotá, CO",
+      "category": "Tecnología",
+      "type": "Híbrido",
+      "salary": "$3.500.000",
+      "description": "Diseña interfaces modernas y trabaja junto al equipo de producto."
+    },
+    {
+      "id": "3",
+      "title": "Ejecutivo Comercial",
+      "company": "Impulso SAS",
+      "location": "Cali, CO",
+      "category": "Ventas",
+      "type": "Presencial",
+      "salary": "$2.500.000 + comisiones",
+      "description": "Prospección de clientes y cierre de oportunidades."
+    },
+    {
+      "id": "4",
+      "title": "Coordinador de Operaciones",
+      "company": "LogiMax",
+      "location": "Barranquilla, CO",
+      "category": "Operaciones",
+      "type": "Híbrido",
+      "salary": "$3.200.000",
+      "description": "Coordina procesos internos y mejora la eficiencia logística."
+    },
+    {
+      "id": "36a9",
+      "title": "duvan",
+      "company": "duvi",
+      "location": "riwi",
+      "category": "duvi",
+      "type": "renota",
+      "salary": "12000",
+      "description": "duvi"
+    }
+  ],
+  "applications": [
+    {
+      "id": "e448",
+      "userId": "2",
+      "offerId": 1,
+      "date": "4/2/2026"
+    },
+    {
+      "id": "e62c",
+      "userId": "2",
+      "offerId": 4,
+      "date": "4/2/2026"
+    }
+  ]
+}
